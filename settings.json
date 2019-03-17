@@ -1,9 +1,36 @@
 {
     "workbench.colorTheme": "Monokai",
-    "editor.fontWeight": "600",
     "terminal.integrated.fontWeightBold": "normal",
     "editor.fontFamily": "Menlo, monospace, Monaco, 'Courier New'",
     "vim.easymotion": true,
     "vim.hlsearch": true,
-    "vim.searchHighlightColor": "peru"
+    "vim.searchHighlightColor": "peru",
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "keyword",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "storage",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "constant.language",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "support.class.builtin",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        }
+    ]
+    }
 }
