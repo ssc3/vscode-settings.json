@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontWeight": "600",
+    "terminal.integrated.fontWeightBold": "normal",
+    "editor.fontFamily": "Menlo, monospace, Monaco, 'Courier New'",
+    "vim.easymotion": true,
+    "vim.hlsearch": true,
+    "vim.searchHighlightColor": "peru"
+}
