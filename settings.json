@@ -30,6 +30,12 @@
             "settings": {
                 "fontStyle": "bold"
             }
+        },
+        {
+            "scope":"entity.name.function",
+            "settings": {
+                "fontStyle": "bold"
+            }
         }
     ]
     }
